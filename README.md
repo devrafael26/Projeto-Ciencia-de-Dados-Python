@@ -89,5 +89,5 @@ Deploy do Projeto
 
  Para construirmos nosso deploy:
  
-1 - Pegamos todos os nomes das colunas que restaram. 
-2 - Dividimos em 3 grupos de características diferentes, como: um valor numérico, true/false ou uma lista (tipos de propriedades). Colocamos cada um grupo dentro de um dicionário por ser o melhor método para trabalharmos característica e valor.
+ - Pegamos todos os nomes das colunas que restaram. 
+ - Dividimos em 3 grupos de características diferentes, como: um valor numérico, true/false ou uma lista (tipos de propriedades). Colocamos cada um grupo dentro de um dicionário por ser o melhor método para trabalharmos característica e valor.
